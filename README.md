@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anushkaverma779@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BOvx_eO5S_ILyzt2qoOXOKiIonuN4TwM/view?usp=sharing](https://drive.google.com/file/d/1BOvx_eO5S_ILyzt2qoOXOKiIonuN4TwM/view?usp=sharing)
+- 📄 Know about my experiences [Anushka's_Resume(Updated)](https://drive.google.com/file/d/1BOvx_eO5S_ILyzt2qoOXOKiIonuN4TwM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
