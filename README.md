@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/theanushka_v18" target="blank"><img src="https://img.shields.io/twitter/follow/theanushka_v18?logo=twitter&style=for-the-badge" alt="theanushka_v18" /></a> </p>
 
-- 🔭 I’m currently working in **Indivue Technologies**
+- 🔭 I’m currently working in **Samta Infotech**
+- 
+- 🔭 Previously I worked in **Indivue Technologies**
 
 - 🌱 I’m currently learning **NextJS and Data Structures & Algorithms**
 
