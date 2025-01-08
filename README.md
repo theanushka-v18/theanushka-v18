@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://anushka-s-portfolio.vercel.app/projects](https://anushka-s-portfolio.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://anushka-s-portfolio.vercel.app/projects](https://anushka-s-portfolio.vercel.app)
 
 - 💬 Ask me about **JavaScript, ReactJS**
 
