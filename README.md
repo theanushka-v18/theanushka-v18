@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theanushka-v18&show_icons=true&locale=en" alt="theanushka-v18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theanushka-v18&" alt="theanushka-v18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theanushka-v18" alt="theanushka-v18" /></p>
